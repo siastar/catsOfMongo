@@ -1,0 +1,19 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "https://www.codewall.co.uk/nosql-building-your-first-application-connecting-to-mongodb/",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expect": "^24.9.0",
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2"
+  }
+}
